@@ -8,6 +8,7 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
+    //initialize
     Button button;
     TextView textView;
 
